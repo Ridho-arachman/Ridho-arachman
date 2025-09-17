@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jet+Brains&weight=900&size=50&duration=7000&pause=1000&color=F7A024&center=true&vCenter=true&width=1080&height=200&lines=Welcome+To+My+Github+Profile+!!!+%F0%9F%99%8C;Hai+!%2C+My+Name+Is+Ridho+%F0%9F%98%8A%F0%9F%98%8A;Let%60s+See+What%60s+Project+I+Have+Done.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" width="400" alt="Pixel Programmer"/>
+  <img src="asset.gif" width="400" alt="Pixel Programmer"/>
 </p>
+
+---
 
 # 💫 About Me:
 
